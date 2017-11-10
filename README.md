@@ -1,7 +1,7 @@
 # localizeLV
-Localizes cardiac LV by estimating 3D centrepoint
+Localizes cardiac LV in MRI by estimating 3D centrepoint
 
-This MATLAB function estimates the cardiac left ventricle (LV) centre by roughly segmenting the LV bloodpool. It is meant as a first-step measure to enable subsequent fully-automated LV segmentation algorithms such as an active contour technique. This function only works for MRI short-axis steady state free precession (SSFP) images.
+This MATLAB function estimates the cardiac left ventricle (LV) centre in cine MRI scans by roughly segmenting the LV bloodpool. It is meant as a first-step measure to enable subsequent fully-automated LV segmentation algorithms such as an active contour technique. This function only works for MRI short-axis steady state free precession (SSFP) images.
 
 The following image illustrates sample results from various datasets:
 ![Sample results from four datasets](sample-output.jpg)
