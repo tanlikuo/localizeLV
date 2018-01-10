@@ -23,4 +23,5 @@ Use `bw4d_LV` or `bw3d_LV` as appropriate to determine the per-slice, per-phase,
 This function requires MATLAB, though it should probably also work on Octave *(not tested)*. It was developed against MATLAB R2014a, and requires the **Image Processing** and **Statistics** toolboxes to be installed.
 
 ## Citation
-If you use **localizeLV** in your research, please cite [XXXXX]. Thank you.
+If you use **localizeLV** in your research, please cite the article linked below, thanks. <br />
+*[Tan, L.K., Liew, Y.M., Lim, E. et al. Med Biol Eng Comput (2017). https://doi.org/10.1007/s11517-017-1750-7 https://doi.org/10.1007/s11517-017-1750-7](https://doi.org/10.1007/s11517-017-1750-7).*
