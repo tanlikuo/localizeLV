@@ -24,4 +24,4 @@ This function requires MATLAB, though it should probably also work on Octave *(n
 
 ## Citation
 If you use **localizeLV** in your research, please cite the article linked below, thanks. <br />
-*[Tan, L.K., Liew, Y.M., Lim, E. et al. Med Biol Eng Comput (2017). https://doi.org/10.1007/s11517-017-1750-7 https://doi.org/10.1007/s11517-017-1750-7](https://doi.org/10.1007/s11517-017-1750-7).*
+[*Tan, L.K., Liew, Y.M., Lim, E. et al. Med Biol Eng Comput (2017). https://doi.org/10.1007/s11517-017-1750-7*](https://doi.org/10.1007/s11517-017-1750-7)
